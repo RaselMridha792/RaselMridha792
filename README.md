@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/RaselMridha792/rasel-mridha/blob/main/Untitled%20design.png"  />
+  <img height="200" src="https://github.com/RaselMridha792/RaselMridha792/blob/main/Blue%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner.png"  />
 </div>
 
 ###
