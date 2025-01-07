@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://github.com/RaselMridha792/rasel-mridha/blob/main/Untitled%20design.png"  />
+</div>
+
+###
+
 <h1 align="left">🌟 Hello, I'm Rasel Mridha!</h1>
 
 ###
@@ -48,12 +54,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/RaselMridha792/rasel-mridha/blob/main/Untitled%20design.png"  />
 </div>
 
 ###
