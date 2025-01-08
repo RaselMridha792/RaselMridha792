@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Web Develope | 🌐 MERN Stack Enthusiast | 🚀 Building scalable web solutions<br><br>👨‍🎓 Currently studying final semester at computer science and technology on Satkhira Polytech Institute<br><br>🛠️ Skills I Bring:<br><br>🌈 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS<br>🛡️ Backend: Node.js, Express.js<br>🗃️ Database: MongoDB<br>🔐 Authentication: Firebase<br><br>🎯 Focused on Next.js and Redux as my next milestones<br><br>🎨 Passion: Showcasing my creativity through innovative and efficient coding solutions 💡<br><br>🎮 Fun Fact: When I'm not coding, I enjoy playing Free Fire on my MSI Emulator 🎮<br><br>🌟 Favorite Quote: "Never stop learning because life never stops teaching."<br><br>🌟 Inspiration: Jhankar Mahbub</p>
+<p align="left">💻 Web Develope | 🌐 MERN Stack Enthusiast | 🚀 Building scalable web solutions<br><br>Hi there! I'm Rasel Mridha, a passionate MERN Stack Developer with a knack for crafting seamless and scalable web applications. I specialize in modern web development technologies and have hands-on experience in building dynamic, responsive, and secure applications.<br><br>👨‍🎓 Currently studying final semester at computer science and technology on Satkhira Polytech Institute<br><br>🛠️ Skills I Bring:<br><br>🌈 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS<br>🛡️ Backend: Node.js, Express.js<br>🗃️ Database: MongoDB, Firebase Realtime Database<br>🔐 Authentication: Authentication & Security: JWT, Firebase Authentication<br><br>🎯 Focused on Next.js and Redux as my next milestones<br><br>🎨 Passion: Showcasing my creativity through innovative and efficient coding solutions 💡<br><br>🎮 Fun Fact: When I'm not coding, I enjoy playing Free Fire on my MSI Emulator 🎮<br><br>🌟 Favorite Quote: "Never stop learning because life never stops teaching."<br><br>🌟 Inspiration: Jhankar Mahbub</p>
 
 ###
 
@@ -54,5 +54,16 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raselmridha792&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raselmridha792&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/raselmridha792/raselmridha792/output/snake.svg" alt="Snake animation" />
 
 ###
