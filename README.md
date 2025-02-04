@@ -54,7 +54,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-  <h3 align="left"> Phone: +8801645072790 </h3>
 ###
 
 <h3 align="left">Stats</h3>
