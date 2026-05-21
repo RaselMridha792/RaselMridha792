@@ -19,16 +19,19 @@
 
 I'm Rasel Mridha — Technical Project Manager at Exprovia.
 
-I started my career as a MERN Stack developer. I built web applications from scratch, shipped them to production and worked directly with clients. That hands-on technical foundation is what now drives how I lead teams, deliver projects and shape company growth strategy.
+I started my career as a full-stack developer, building production applications from the ground up. That hands-on experience across the entire technology stack is what now drives how I lead teams, solve infrastructure challenges and make decisions that impact company growth.
 
 What I do at Exprovia:
 
-- 🎯 Project planning, sprint management and ensuring on-time delivery
-- 👥 Grew the team from 7 to 35 — targeting 100+ members by 2027
-- 🤝 Client communication, expectation management and building long-term relationships
-- 🛠️ Direct involvement in technical decisions — because I understand the code
+- 🎯 Project planning, sprint management, and ensuring on-time delivery across teams
+- 👥 Grew the team from 7 to 35 members — targeting 100+ by 2027
+- 🤝 Client communication, expectation management and long-term relationship building
+- 🛠️ Direct involvement in technical architecture and infrastructure decisions
+- 🤖 AI agent development and automation strategy
+- 📊 Budget allocation, resource planning and financial tracking
+- 📝 Technical documentation, proposal writing and research
 
-My technical background gives me something most PMs don't have — the ability to speak the developers' language, understand problems quickly and make realistic decisions under pressure.
+My full-stack background gives me something most PMs don't have — the ability to speak developers' language, understand infrastructure constraints, troubleshoot production issues and make realistic decisions under pressure.
 
 ---
 
@@ -36,22 +39,51 @@ My technical background gives me something most PMs don't have — the ability t
 
 <div align="left">
 
-**Frontend:**
-`React.js` · `Next.js` · `JavaScript` · `Tailwind CSS` · `HTML` · `CSS`
+#### Frontend Development
+`React.js` · `Next.js` · `JavaScript` · `TypeScript` · `Tailwind CSS` · `HTML` · `CSS`
 
-**Backend:**
-`Node.js` · `Express.js` · `PHP` · `WordPress`
+#### Backend Development
+`Node.js` · `Express.js` · `RESTful APIs` · `Authentication & Security`
 
-**Database:**
-`MongoDB` · `MySQL` · `Firebase`
+#### Database & Data
+`PostgreSQL` · `MongoDB` · `Firebase` · `Database Optimization`
 
-**Tools & Platforms:**
-`Git` · `GitHub` · `Vercel` · `Firebase` · `JWT Authentication`
+#### Infrastructure & DevOps
+`AWS (EC2, ECS, Lambda, S3, RDS)` · `VPS Server Setup & Management` · `Terminal/Linux` · `Server Maintenance & Troubleshooting` · `Deployment Pipelines`
 
-**Project Management:**
-`Agile/Scrum` · `Sprint Planning` · `Stakeholder Communication` · `Team Scaling`
+#### AI & Automation
+`AI Agent Development` · `OpenAI Integration` · `Automation Workflows` · `LLM-based Solutions`
+
+#### Project & Operations
+`Project Management (Agile/Scrum)` · `ClickUp` · `Budget Planning & Allocation` · `Proposal Writing` · `Technical Documentation` · `Research & Analysis` · `Stakeholder Communication`
+
+#### Tools & Platforms
+`Git & GitHub` · `Vercel` · `AWS Console` · `Terminal/SSH` · `Docker (basics)`
 
 </div>
+
+---
+
+### What I Can Do For Your Team
+
+**Development:**
+- Build and maintain full-stack web applications (Next.js + Node.js + PostgreSQL)
+- Design scalable backend architectures and APIs
+- Set up and manage cloud infrastructure (AWS)
+- Optimize database performance and queries
+- Troubleshoot and fix production issues
+
+**AI & Innovation:**
+- Build AI agents and automation workflows
+- Integrate LLM capabilities into applications
+- Research and implement emerging technologies
+
+**Leadership & Operations:**
+- Lead cross-functional teams through complex projects
+- Manage budgets, timelines and resources
+- Write technical proposals and documentation
+- Handle client communication and expectation management
+- Scale teams and build processes that work
 
 ---
 
@@ -77,7 +109,7 @@ My technical background gives me something most PMs don't have — the ability t
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raselmridha792&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raselmridha792&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=raselmridha792&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
