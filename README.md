@@ -111,7 +111,6 @@ My full-stack background gives me something most PMs don't have — the ability 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselmridha792&layout=compact&theme=dracula&hide_border=false&langs_count=6&card_width=320" height="165" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raselmridha792&theme=dracula&hide_border=false&border_radius=5" height="165" alt="streak graph" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselmridha792&" alt="raselmridha792" /></p>
 </div>
 
 <br/>
