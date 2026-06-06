@@ -124,9 +124,3 @@ My full-stack background gives me something most PMs don't have — the ability 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raselmridha792&radius=16&theme=react&area=true&hide_border=false" alt="activity graph" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/raselmridha792/raselmridha792/output/snake.svg" alt="Snake animation" />
-</div>
